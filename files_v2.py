@@ -97,7 +97,8 @@ if '__main__' == __name__:
     if vod == 'reg':
         new_user_data = reg_user(form)
         save_new_data('data.txt',new_user_data[1],new_user_data[2])
-        login = str(new_user_data[1].keys).strip()
+        users_data.update(new_user_data[1])
+        login =str(list(new_user_data[1].keys())).strip("['']")
     else:
         check = True
         while check:
