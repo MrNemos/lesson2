@@ -1,0 +1,1953 @@
+<body>
+	<table cellpadding="0" cellspacing="0" width="100%" border="0">
+		<tbody><tr>
+			<td>
+				<table cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr>
+						<td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="white">
+	<tbody><tr>
+		<td align="right"><img border="0" src="img/uk/titleright.gif" height="13"></td>
+	</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="white" background="img/topbg.jpg" style="background-repeat : repeat-x">
+	<tbody><tr height="71px">
+		<td width="100%" background="img/titleleft.jpg" style="background-position : left; background-repeat : no-repeat">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td background="img/titleright.jpg" style="background-position : right top; background-repeat : no-repeat; padding-left : 180px " height="71px">
+
+			<img src="img/uk/title.gif" border="0"></td>
+          </tr></tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+						</td>
+					</tr>
+					<tr>
+						<td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+
+		<td width="100%" align="right" class="TopLink" nowrap="nowrap">
+			четвер | 31 жовтня 2019 |&nbsp;&nbsp;&nbsp;
+		</td>
+<td>
+
+<img border="0" src="img/ukr_off.gif" width="40" height="21">
+</td><td>
+<a href="/dsszzi/control/ru/index;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1"><img border="0" src="img/rus_off.gif" width="40" height="21"></a>
+
+</td><td>
+<a href="/dsszzi/control/en/index;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1"><img border="0" src="img/eng_off.gif" width="40" height="21"></a>
+
+</td>
+	</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+		<td width="100%">
+<script language="JavaScript">
+
+creatMenu(
+
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "НОВИНИ",new Array(
+
+
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Поточні новини",new Array(
+
+
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302003", "2019",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=284576", "2018",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268448", "2017",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240232", "2016",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=119123", "2015",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112509", "2014",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105668", "2013",new Array()
+
+,
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2019",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103351", "2012",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103352", "2011",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103353", "2010",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103354", "2009",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103355", "2008",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103356", "2007",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103357", "2006",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103358", "2005",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103359", "2004",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103360", "2003",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103361", "2002",new Array()
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103362", "2001",new Array()
+)
+
+,
+"control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38712", "Статті та інтерв`ю ",new Array(
+)
+),
+
+
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Про Держспецзв\&#039;язку",new Array(
+
+
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Історія",new Array(
+
+
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "1918-1941 роки",new Array()
+
+,
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "1941-1945 роки",new Array()
+
+,
+"http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Повоєнні роки",new Array()
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81011&cat_id=80663", " Афганська війна",new Array()
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81015&cat_id=80686", "Чорнобильська катастрофа",new Array()
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=90018&cat_id=80687", "Створення Держспецзв`язку",new Array()
+)
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89829&cat_id=87062", "Структура",new Array(
+)
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38696&cat_id=38562", "Керівництво",new Array(
+)
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89831&cat_id=89828", "Завдання",new Array(
+)
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91989&cat_id=91988", "Розпорядок роботи",new Array(
+)
+
+,
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92225&cat_id=92224", "Положення",new Array(
+)
+),
+
+
+"control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113386&cat_id=113385", "ІСЗЗІ КПІ ім. Ігоря Сікорського",new Array(
+),
+'Menu2',new Array("0"));
+</script><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td id="S1" onmouseover="overMen(0,0,1,-1,&quot;p.h&quot;)" onmouseout="outMen(1)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',1)" class="TopMenParent">НОВИНИ</td><td width="1px"><img src="img/1x1" width="1" height="1"></td><td id="S24" onmouseover="overMen(0,0,24,-1,&quot;p.h&quot;)" onmouseout="outMen(24)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',24)" class="TopMenParent">Про&nbsp;Держспецзв'язку</td><td width="1px"><img src="img/1x1" width="1" height="1"></td><td id="S37" onmouseover="overMen(0,0,37,-1,&quot;p.h&quot;)" onmouseout="outMen(37)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113386&amp;cat_id=113385',37)" class="TopMen">ІСЗЗІ&nbsp;КПІ&nbsp;ім.&nbsp;Ігоря&nbsp;Сікорського</td></tr></tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>	<td><img src="img/1x1.gif" width="7" height="1"></td></tr>
+</tbody></table>
+<script language="JavaScript">
+creatMenuChild('Menu2');
+</script><div id="T2" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color: #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S3" onmouseover="overMen(2,2,3,&quot;p.w&quot;,-1)" onmouseout="outMen(3)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302003',3)" class="SubMen" style="cursor:hand">2019</td></tr><tr><td id="S4" onmouseover="overMen(2,2,4,&quot;p.w&quot;,-1)" onmouseout="outMen(4)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=284576',4)" class="SubMen" style="cursor:hand">2018</td></tr><tr><td id="S5" onmouseover="overMen(2,2,5,&quot;p.w&quot;,-1)" onmouseout="outMen(5)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268448',5)" class="SubMen" style="cursor:hand">2017</td></tr><tr><td id="S6" onmouseover="overMen(2,2,6,&quot;p.w&quot;,-1)" onmouseout="outMen(6)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240232',6)" class="SubMen" style="cursor:hand">2016</td></tr><tr><td id="S7" onmouseover="overMen(2,2,7,&quot;p.w&quot;,-1)" onmouseout="outMen(7)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=119123',7)" class="SubMen" style="cursor:hand">2015</td></tr><tr><td id="S8" onmouseover="overMen(2,2,8,&quot;p.w&quot;,-1)" onmouseout="outMen(8)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112509',8)" class="SubMen" style="cursor:hand">2014</td></tr><tr><td id="S9" onmouseover="overMen(2,2,9,&quot;p.w&quot;,-1)" onmouseout="outMen(9)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105668',9)" class="SubMen" style="cursor:hand">2013</td></tr><tr><td id="S10" onmouseover="overMen(2,2,10,&quot;p.w&quot;,-1)" onmouseout="outMen(10)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',10)" class="SubMen" style="cursor:hand">2019</td></tr><tr><td id="S11" onmouseover="overMen(2,2,11,&quot;p.w&quot;,-1)" onmouseout="outMen(11)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103351',11)" class="SubMen" style="cursor:hand">2012</td></tr><tr><td id="S12" onmouseover="overMen(2,2,12,&quot;p.w&quot;,-1)" onmouseout="outMen(12)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103352',12)" class="SubMen" style="cursor:hand">2011</td></tr><tr><td id="S13" onmouseover="overMen(2,2,13,&quot;p.w&quot;,-1)" onmouseout="outMen(13)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103353',13)" class="SubMen" style="cursor:hand">2010</td></tr><tr><td id="S14" onmouseover="overMen(2,2,14,&quot;p.w&quot;,-1)" onmouseout="outMen(14)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103354',14)" class="SubMen" style="cursor:hand">2009</td></tr><tr><td id="S15" onmouseover="overMen(2,2,15,&quot;p.w&quot;,-1)" onmouseout="outMen(15)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103355',15)" class="SubMen" style="cursor:hand">2008</td></tr><tr><td id="S16" onmouseover="overMen(2,2,16,&quot;p.w&quot;,-1)" onmouseout="outMen(16)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103356',16)" class="SubMen" style="cursor:hand">2007</td></tr><tr><td id="S17" onmouseover="overMen(2,2,17,&quot;p.w&quot;,-1)" onmouseout="outMen(17)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103357',17)" class="SubMen" style="cursor:hand">2006</td></tr><tr><td id="S18" onmouseover="overMen(2,2,18,&quot;p.w&quot;,-1)" onmouseout="outMen(18)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103358',18)" class="SubMen" style="cursor:hand">2005</td></tr><tr><td id="S19" onmouseover="overMen(2,2,19,&quot;p.w&quot;,-1)" onmouseout="outMen(19)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103359',19)" class="SubMen" style="cursor:hand">2004</td></tr><tr><td id="S20" onmouseover="overMen(2,2,20,&quot;p.w&quot;,-1)" onmouseout="outMen(20)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103360',20)" class="SubMen" style="cursor:hand">2003</td></tr><tr><td id="S21" onmouseover="overMen(2,2,21,&quot;p.w&quot;,-1)" onmouseout="outMen(21)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103361',21)" class="SubMen" style="cursor:hand">2002</td></tr><tr><td id="S22" onmouseover="overMen(2,2,22,&quot;p.w&quot;,-1)" onmouseout="outMen(22)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103362',22)" class="SubMen" style="cursor:hand">2001</td></tr></tbody></table></div><div id="T1" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color: #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S2" onmouseover="overMen(1,1,2,&quot;p.w&quot;,-1)" onmouseout="outMen(2)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',2)" class="SubMenParent" style="cursor:hand">Поточні новини</td></tr><tr><td id="S23" onmouseover="overMen(1,1,23,&quot;p.w&quot;,-1)" onmouseout="outMen(23)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38712',23)" class="SubMen" style="cursor:hand">Статті та інтерв`ю </td></tr></tbody></table></div><div id="T25" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color: #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S26" onmouseover="overMen(25,2,26,&quot;p.w&quot;,-1)" onmouseout="outMen(26)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',26)" class="SubMen" style="cursor:hand">1918-1941 роки</td></tr><tr><td id="S27" onmouseover="overMen(25,2,27,&quot;p.w&quot;,-1)" onmouseout="outMen(27)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',27)" class="SubMen" style="cursor:hand">1941-1945 роки</td></tr><tr><td id="S28" onmouseover="overMen(25,2,28,&quot;p.w&quot;,-1)" onmouseout="outMen(28)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',28)" class="SubMen" style="cursor:hand">Повоєнні роки</td></tr><tr><td id="S29" onmouseover="overMen(25,2,29,&quot;p.w&quot;,-1)" onmouseout="outMen(29)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81011&amp;cat_id=80663',29)" class="SubMen" style="cursor:hand"> Афганська війна</td></tr><tr><td id="S30" onmouseover="overMen(25,2,30,&quot;p.w&quot;,-1)" onmouseout="outMen(30)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81015&amp;cat_id=80686',30)" class="SubMen" style="cursor:hand">Чорнобильська катастрофа</td></tr><tr><td id="S31" onmouseover="overMen(25,2,31,&quot;p.w&quot;,-1)" onmouseout="outMen(31)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=90018&amp;cat_id=80687',31)" class="SubMen" style="cursor:hand">Створення Держспецзв`язку</td></tr></tbody></table></div><div id="T24" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color: rgb(55, 91, 176); left: 213px; top: 129px; visibility: hidden;"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S25" onmouseover="overMen(24,1,25,&quot;p.w&quot;,-1)" onmouseout="outMen(25)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',25)" class="SubMenParent" style="cursor:hand">Історія</td></tr><tr><td id="S32" onmouseover="overMen(24,1,32,&quot;p.w&quot;,-1)" onmouseout="outMen(32)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89829&amp;cat_id=87062',32)" class="SubMen" style="cursor:hand">Структура</td></tr><tr><td id="S33" onmouseover="overMen(24,1,33,&quot;p.w&quot;,-1)" onmouseout="outMen(33)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38696&amp;cat_id=38562',33)" class="SubMen" style="cursor:hand">Керівництво</td></tr><tr><td id="S34" onmouseover="overMen(24,1,34,&quot;p.w&quot;,-1)" onmouseout="outMen(34)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89831&amp;cat_id=89828',34)" class="SubMen" style="cursor:hand">Завдання</td></tr><tr><td id="S35" onmouseover="overMen(24,1,35,&quot;p.w&quot;,-1)" onmouseout="outMen(35)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91989&amp;cat_id=91988',35)" class="SubMen" style="cursor:hand">Розпорядок роботи</td></tr><tr><td id="S36" onmouseover="overMen(24,1,36,&quot;p.w&quot;,-1)" onmouseout="outMen(36)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92225&amp;cat_id=92224',36)" class="SubMen" style="cursor:hand">Положення</td></tr></tbody></table></div>
+
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td rowspan="2" style="background : url(img/right.gif) repeat-y right"><img src="img/1x1.gif" width="43" height="1"></td>
+		</tr>
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td width="163" valign="top" class="colleft">
+
+
+
+
+
+
+
+
+<script language="javascript">
+<!--
+function count(string){
+  var c = 0;
+  for (var i = 0; i < string.length; i++){
+    if (string.charAt(i) != ' ') c++;
+  }
+  return c;
+}
+function checkSearch(){
+  if (count(document.searchForm.mustWords.value) < 3) {
+    alert('Умова пошуку має містити принаймні 3 літери!');
+    return false;
+  }
+  return true;
+}
+//-->
+</script>
+<form action="/dsszzi/control/uk/search/results;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1" name="searchForm" method="post" onsubmit="return checkSearch()">
+<input type="hidden" name="searchPublishing" value="1">
+
+
+            <table width="158" border="0" cellpadding="0" cellspacing="0" class="srch">
+              <tbody><tr>
+          <td width="100%" class="boxtitle"><p style="margin-left: 7; margin-top: 1; margin-bottom: 3;">Пошук</p></td>
+        </tr>
+
+        <tr>
+          <td width="100%">
+            <table width="100%" border="0" cellpadding="0" cellspacing="7">
+                      <tbody><tr>
+                <td><input name="mustWords" value="" size="14" style="width: 122; height: 22"></td>
+                <td align="center" width="100%"><input type="image" src="img/go.gif" width="11" height="11"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <tr>
+          <td width="100%" valign="middle">
+              <table width="100%" border="0" cellpadding="0" cellspacing="1">
+                      <tbody><tr>
+                  <td class="rbcont"><a href="/dsszzi/control/uk/search/advanced;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1">Розширений пошук</a></td>
+                </tr>
+              </tbody></table>
+          </td>
+        </tr>
+
+<tr><td><img src="img/1x1.gif" width="1" height="1"></td></tr>
+<tr><td><img src="img/1x1.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+
+
+
+
+
+
+<script language="JavaScript">
+creatMenu(
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Про Держспецзв`язку",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Історія",new Array(
+
+
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "1918-1941 роки",new Array(
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "1941-1945 роки",new Array(
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Повоєнні роки",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81011&cat_id=80663", " Афганська війна",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81015&cat_id=80686", "Чорнобильська катастрофа",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=90018&cat_id=80687", "Створення Держспецзв`язку",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89829&cat_id=87062", "Структура",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38696&cat_id=38562", "Керівництво",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89831&cat_id=89828", "Завдання",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91989&cat_id=91988", "Розпорядок роботи",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92225&cat_id=92224", "Положення",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Телекомунікації і користування радіочастотним ресурсом",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Стан галузі",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97369&cat_id=97368", "Електронні форми звітності",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Стандартизація, оцінка відповідності (сертифікація) та метрологія",new Array(
+
+
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Нормативно-правове забезпечення",new Array(
+
+
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96055&cat_id=96052", "Нормативно-правове забезпечення з питань стандартизації",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=96053", "Нормативно-правове забезпечення з питань оцінки відповідності (сертифікації)",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96061&cat_id=96054", "Нормативно-правове забезпечення з питань метрології",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Стандартизація",new Array(
+
+
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96067&cat_id=96065", "Державні стандарти",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96070&cat_id=96066", "Галузеві нормативні документи",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Оцінка відповідності (сертифікація)",new Array(
+
+
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96080&cat_id=96079", "Підстави для проведення",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96094&cat_id=96093", "Контакти",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Метрологія",new Array(
+
+
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=247097&cat_id=96105", "Положення про метрологічну службу",new Array(
+		      )
+	      )
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "НОВИНИ",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Поточні новини",new Array(
+
+
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302003", "2019",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=284576", "2018",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268448", "2017",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240232", "2016",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=119123", "2015",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112509", "2014",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105668", "2013",new Array(
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2019",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103351", "2012",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103352", "2011",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103353", "2010",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103354", "2009",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103355", "2008",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103356", "2007",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103357", "2006",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103358", "2005",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103359", "2004",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103360", "2003",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103361", "2002",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103362", "2001",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103363", "2000",new Array(
+		      )
+	      )
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38712", "Статті та інтерв`ю ",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Нормативно-правова база",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=88291&cat_id=38828", "Закони",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=300864&cat_id=38829", "Укази",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38834", "Постанови КМУ",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=49139", "Розпорядження КМУ",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?showHidden=1&art_id=306436&cat_id=38835&ctime=1554728725967", "Накази",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38836", "Стандарти ",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=75199", "Судова практика",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/publish/article?showHidden=1&art_id=89740&cat_id=89734&ctime=1547204009788", "Інформаційний перелік Фонду НД ТЗІ та КЗІ",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=303179", "Правове забезпечення реалізації гендерної рівності",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Регуляторна діяльність",new Array(
+
+
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=88858", "Планування регуляторної діяльності",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38837", "Оприлюднення проектів регуляторних актів",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Відстеження результативності регуляторних актів",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=302607&cat_id=302605", "Планування заходів з відстеження",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=91077", "Звіти про відстеження",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=297997&cat_id=302606", "Перелік регуляторних актів",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302604", "Інформація про здійснення регуляторної діяльності",new Array(
+      )
+    ),
+
+  "", "", "",
+  "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96977&cat_id=96975", "Міжнародна діяльність",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=125660&cat_id=97065", "Європейська інтеграція",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Співробітництво з міжнародними та регіональними організаціями",new Array(
+
+
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97269", "МСЕ (Міжнародний союз електрозв`язку)",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97324&cat_id=97323", "Європейська конференція адміністрацій зв\'язку (СЕПТ)",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97251&cat_id=97250", "Співробітництво з НАТО",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=125658&cat_id=96985", "Двостороннє співробітництво",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Діяльність",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Ліцензування",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=284081&cat_id=266373", "Перелік суб’єктів господарювання, які мають ліцензії на провадження господарської діяльності у галузі КЗІ та ТЗІ, за переліком Уряду",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266374", "Перелік законодавчих та нормативно-правових актів, що визначають провадження ліцензованої діяльності у галузі КЗІ та ТЗІ",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266376", "Порядок ліцензування господарської діяльності у галузі КЗІ (крім послуг електронного цифрового підпису) та ТЗІ, за переліком, що визначається Урядом",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266377", "Форми документів, що подаються до органу ліцензування",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=266382&cat_id=266378", "Порядок плати за видачу (переоформлення) ліцензії",new Array(
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Рішення Адміністрації Держспецзв\'язку з питань ліцензування господарської діяльності у галузі криптографічного та технічного захисту інформації",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268817", "Рішення Адміністрації Держспецзв\'язку про видачу ліцензіі",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268899", "Рішення Адміністрації Держспецзв\'язку про відмову у видачі ліцензіі",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=269304", "Рішення Адміністрації Держспецзв\'язку про залишення заяв про отримання ліцензії без розгляду",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=290908", "Рішення Адміністрації Держспецзв’язку про анулювання ліцензії",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=309117&cat_id=309116", "Рішення Адміністрації Держспецзв’язку про звуження провадження господарської діяльності",new Array(
+		      )
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Сертифікація",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=39057&cat_id=39136", "Криптографічний захист інформації",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=39181", "Технічний захист інформації ",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Експертиза",new Array(
+
+
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=44795", "Технічний захист інформації ",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=39213&cat_id=44796", "Криптографічний захист інформації",new Array(
+
+
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72142&cat_id=72106", "Подання заявки на проведення експертизи",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72144&cat_id=72107", "Розгляд заявки",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72146&cat_id=72108", "Проведення експертизи та видача експертного висновку",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72269&cat_id=72268", "Консультації з питань державної експертизи",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=283948&cat_id=72110", "Перелік засобів КЗІ, які мають експертний висновок за результатами державної експертизи у галузі КЗІ",new Array(
+		      )
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Державний контроль",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=117950&cat_id=117930", "Нормативно-правові акти",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117920", "Плани",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117932", "Звіти",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Кадри",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113050&cat_id=112881", "Кадрова політика",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113052&cat_id=112886", "Соціальний захист",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112887", "Підготовка, підвищення кваліфікації",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=252827&cat_id=112888", "Відомчі нагороди",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=252832&cat_id=112889", "Спорт",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112890", "Події",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92106&cat_id=92105", "Перелік платних адміністративних послуг",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=89734", "Фонд нормативних документів у сфері технічного та криптографічного захисту інформації ",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=104562", "Погодження призначень",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=308322&cat_id=308321", "Оператори НСКЗ",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=267819", "Технічне регулювання у сфері захисту інформації",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Стандартизація, оцінка відповідності (сертифікація) та метрологія",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Нормативно-правове забезпечення",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96055&cat_id=96052", "Нормативно-правове забезпечення з питань стандартизації",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=96053", "Нормативно-правове забезпечення з питань оцінки відповідності (сертифікації)",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96061&cat_id=96054", "Нормативно-правове забезпечення з питань метрології",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Стандартизація",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96067&cat_id=96065", "Державні стандарти",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96070&cat_id=96066", "Галузеві нормативні документи",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Оцінка відповідності (сертифікація)",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96080&cat_id=96079", "Підстави для проведення",new Array(
+	      )
+
+        ,
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96094&cat_id=96093", "Контакти",new Array(
+	      )
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Метрологія",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=247097&cat_id=96105", "Положення про метрологічну службу",new Array(
+	      )
+      )
+    ),
+
+  "", "", "",
+  "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=89991", "Оголошення",new Array(
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Державні закупівлі",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Відкриті торги",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Торги з обмеженою участю",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Двоступеневі торги",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=74363", "Річні плани державних закупівель",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Фінансово-економічна діяльність",new Array(
+
+
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=79888", "Стан фінансування Держспецзв`язку",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105467", "Звітність",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=111319&cat_id=111318", "Події",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Ветеранська організація",new Array(
+
+
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105743", "Керівні документи",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105744", "Діяльність",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Зв’язки з громадськістю",new Array(
+
+
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Громадська рада",new Array(
+
+
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=90882", "Склад Громадської ради",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=90883", "Положення про Громадську раду при Держспецзв`язку та Регламент",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=303296", "Оголошення Громадської ради",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97585", "Плани",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97586", "Звіти",new Array(
+      )
+
+      ,
+      "http://zakon3.rada.gov.ua/laws/show/976-2008-П", "Громадська експертиза",new Array(
+      )
+
+      ,
+      "http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/category?cat_id=38837", "Консультації з громадськістю",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Галузева наука",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=244528&cat_id=106582", "Наукові установи",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=106583", "Секція НТР",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=106589&cat_id=106588", "План заходів",new Array(
+      )
+    ),
+
+  "", "", "",
+  "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=46557&cat_id=46556", "Консультаційний центр",new Array(
+    ),
+
+  "", "", "",
+  "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38860&cat_id=38571", "Контактна інформація",new Array(
+    ),
+
+  "", "", "",
+  "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=72508", "Запобігання проявам корупції",new Array(
+    ),
+
+  "", "", "",
+  "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=85699&cat_id=85493", "Прес-служба",new Array(
+    ),
+
+  "", "", "",
+  "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=91759", "Вакансії",new Array(
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Доступ до публічної інформації",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92341&cat_id=92337", "Законодавство про доступ до публічної інформації",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92347&cat_id=92338", "Форма запиту на отримання публічної інформації",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92345&cat_id=92339", "Перелік відомостей, що становлять службову інформацію",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92343&cat_id=92340", "Найбільш запитувана інформація",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Реєстр документів що містять публічну інформацію",new Array(
+
+
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2007",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94237", "Накази",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94238", "Розпорядження",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2008",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94260", "Накази",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94261", "Розпорядження",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2009",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94283", "Накази",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94284", "Розпорядження",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2010",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94306", "Накази",new Array(
+		      )
+
+	        ,
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94307", "Розпорядження",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2011",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94329", "Накази",new Array(
+		      )
+
+	        ,
+	        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Розпорядження",new Array(
+		      )
+	      )
+
+        ,
+        "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "2012",new Array(
+
+
+	        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105461", "Накази",new Array(
+		      )
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=106559", "2013",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112644", "2014",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=121207", "2015",new Array(
+	      )
+
+        ,
+        "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240491", "2016",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=92469", "Звіти",new Array(
+      )
+
+      ,
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92471&cat_id=92470", "Порядок оскарження рішень розпорядника інформації або його бездіяльності",new Array(
+      )
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Звернення громадян",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91842&cat_id=91838", "Нормативні акти",new Array(
+      )
+
+      ,
+      "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Прийом громадян",new Array(
+
+
+        "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91846&cat_id=91840", "Порядок прийому",new Array(
+	      )
+
+        ,
+        "http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/article?showHidden=1&art_id=91973&cat_id=91841", "Графік прийому",new Array(
+	      )
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=108937", "Інформація про стан роботи зі зверненнями",new Array(
+      )
+    ),
+
+  "", "", "",
+  "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=304979&cat_id=304904", "Відкриті дані",new Array(
+    ),
+
+  "", "", "",
+  "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=111029", "Центральна житлово-побутова комісія",new Array(
+    ),
+
+  "", "", "",
+  "http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Очищення влади",new Array(
+
+
+      "control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=117154&cat_id=117423", "Загальна інформація",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117425", "Перелік посад та осіб, щодо яких проводиться перевірка",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117424", "Нормативна база",new Array(
+      )
+
+      ,
+      "control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=209487", "Перелік посад і осіб які пройшли перевірку",new Array(
+      )
+    ),
+
+  "", "", "",
+  "control/uk/doccatalog/list;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1", "Файловий архів",new Array(
+    ),
+  'Menu1',new Array("0"));
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr></tr><tr><td colspan="2" id="S38" onmouseover="overMen(0,0,38,&quot;p.w&quot;,0)" onmouseout="outMen(38)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',38)" class="MenParent">Про Держспецзв`язку</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S51" onmouseover="overMen(0,0,51,&quot;p.w&quot;,0)" onmouseout="outMen(51)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',51)" class="MenParent">Телекомунікації і користування радіочастотним ресурсом</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S67" onmouseover="overMen(0,0,67,&quot;p.w&quot;,0)" onmouseout="outMen(67)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',67)" class="MenParent">НОВИНИ</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S91" onmouseover="overMen(0,0,91,&quot;p.w&quot;,0)" onmouseout="outMen(91)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',91)" class="MenParent">Нормативно-правова база</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S101" onmouseover="overMen(0,0,101,&quot;p.w&quot;,0)" onmouseout="outMen(101)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',101)" class="MenParent">Регуляторна діяльність</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S109" onmouseover="overMen(0,0,109,&quot;p.w&quot;,0)" onmouseout="outMen(109)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96977&amp;cat_id=96975',109)" class="MenParent">Міжнародна діяльність</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S116" onmouseover="overMen(0,0,116,&quot;p.w&quot;,0)" onmouseout="outMen(116)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',116)" class="MenParent">Діяльність</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S156" onmouseover="overMen(0,0,156,&quot;p.w&quot;,0)" onmouseout="outMen(156)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',156)" class="MenParent">Стандартизація, оцінка відповідності (сертифікація) та метрологія</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S169" onmouseover="overMen(0,0,169,&quot;p.w&quot;,0)" onmouseout="outMen(169)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=89991',169)" class="Men">Оголошення</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S170" onmouseover="overMen(0,0,170,&quot;p.w&quot;,0)" onmouseout="outMen(170)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',170)" class="MenParent">Державні закупівлі</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S175" onmouseover="overMen(0,0,175,&quot;p.w&quot;,0)" onmouseout="outMen(175)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',175)" class="MenParent">Фінансово-економічна діяльність</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S179" onmouseover="overMen(0,0,179,&quot;p.w&quot;,0)" onmouseout="outMen(179)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',179)" class="MenParent">Ветеранська організація</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S182" onmouseover="overMen(0,0,182,&quot;p.w&quot;,0)" onmouseout="outMen(182)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',182)" class="MenParent">Зв’язки з громадськістю</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S191" onmouseover="overMen(0,0,191,&quot;p.w&quot;,0)" onmouseout="outMen(191)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',191)" class="MenParent">Галузева наука</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S195" onmouseover="overMen(0,0,195,&quot;p.w&quot;,0)" onmouseout="outMen(195)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=46557&amp;cat_id=46556',195)" class="Men">Консультаційний центр</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S196" onmouseover="overMen(0,0,196,&quot;p.w&quot;,0)" onmouseout="outMen(196)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38860&amp;cat_id=38571',196)" class="Men">Контактна інформація</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S197" onmouseover="overMen(0,0,197,&quot;p.w&quot;,0)" onmouseout="outMen(197)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=72508',197)" class="Men">Запобігання проявам корупції</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S198" onmouseover="overMen(0,0,198,&quot;p.w&quot;,0)" onmouseout="outMen(198)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=85699&amp;cat_id=85493',198)" class="Men">Прес-служба</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S199" onmouseover="overMen(0,0,199,&quot;p.w&quot;,0)" onmouseout="outMen(199)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=91759',199)" class="Men">Вакансії</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S200" onmouseover="overMen(0,0,200,&quot;p.w&quot;,0)" onmouseout="outMen(200)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',200)" class="MenParent">Доступ до публічної інформації</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S229" onmouseover="overMen(0,0,229,&quot;p.w&quot;,0)" onmouseout="outMen(229)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',229)" class="MenParent">Звернення громадян</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S235" onmouseover="overMen(0,0,235,&quot;p.w&quot;,0)" onmouseout="outMen(235)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=304979&amp;cat_id=304904',235)" class="Men">Відкриті дані</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S236" onmouseover="overMen(0,0,236,&quot;p.w&quot;,0)" onmouseout="outMen(236)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=111029',236)" class="Men">Центральна житлово-побутова комісія</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S237" onmouseover="overMen(0,0,237,&quot;p.w&quot;,0)" onmouseout="outMen(237)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',237)" class="MenParent">Очищення влади</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr><tr><td colspan="2" id="S242" onmouseover="overMen(0,0,242,&quot;p.w&quot;,0)" onmouseout="outMen(242)" onmousedown="return clickMen('control/uk/doccatalog/list;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',242)" class="Men">Файловий архів</td></tr><tr><td bgcolor="#5684e8" colspan="2"><img src="img/1x1" width="1" height="1"></td></tr></tbody></table>
+
+
+
+
+
+
+null
+
+
+						    <img src="img/1x1.gif" width="161" height="1">
+						</form></td>
+						<td><img src="img/1x1.gif" width="1" height="1"></td>
+						<td width="100%" valign="top">
+
+
+
+
+
+
+
+
+
+
+
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+                <td valign="top"><img src="img/1x1.gif" width="1" height="3"><br>
+                  <img src="img/rd.gif"></td>
+                <td width="100%" valign="top" class="pagetitle">
+			<a href="control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302003">2019</a><br><br>
+                </td>
+          <td><img src="img/1x1.gif" width="10" height="1"></td>
+        </tr>
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312993&amp;cat_id=302003">
+										31 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312993&amp;cat_id=302003">
+									Керівник Держспецзв’язку відвідав Саміт британського видання TheLegal 500
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312994'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="128" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								Голова Держспецзв’язку Валентин Петров відвідав Саміт британського видання TheLegal 500, взявши участь у панельній дискусії, присвяченій проблемам захисту персональних даних та пов’язаним з цим сучасним викликам для кібербезпеки.
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312993&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312986&amp;cat_id=302003">
+										31 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312986&amp;cat_id=302003">
+									Голова Держспецзв’язку взяв участь у панельній дискусії, присвяченій нарощуванню кіберспроможності в Україні
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312987'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="114" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								Голова Держспецзв’язку Валентин Петров взяв участь у панельній дискусії на тему «Цифрова трансформація та кіберпотенціал», присвяченій майбутньому нарощуванню кіберспроможності в Україні.
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312986&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312973&amp;cat_id=302003">
+										30 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312973&amp;cat_id=302003">
+									Укладено контракт на переозброєння територіальних підрозділів Держспецзв’язку
+
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312974'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="114" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								30 жовтня 2019 року між Адміністрацією Держспецзв’язку та одним із національних виробників підписано контракт з оборонного замовлення на поставку польових комплексних апаратних зв’язку.
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312973&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312839&amp;cat_id=302003">
+										28 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312839&amp;cat_id=302003">
+									Розпочала роботу Всесвітня конференція радіозв’язку Міжнародного союзу електрозв’язку
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312840'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="128" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								28 жовтня 2019 року у місті Шарм-ель-Шейх, Арабська Республіка Єгипет, розпочала роботу Всесвітня конференція радіозв’язку Міжнародного союзу електрозв’язку (МСЕ). Це конференція високого рівня, завданням якої є перегляд Регламенту радіозв'язку - міжнародного договору, який на глобальному рівні визначає правила взаємодії між державами-членами МСЕ у сфері використання і розподілу радіочастотного ресурсу, а також використання геостаціонарної та негеостаціонарних супутникових орбіт.
+
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312839&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312827&amp;cat_id=302003">
+										25 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312827&amp;cat_id=302003">
+									Щодо реєстрації атестатів торгівельних майданчиків системи «ПРОЗОРРО»
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312828'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="110" height="110" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								Експертною радою з питань державної експертизи в сфері технічного захисту інформації (протокол № 32-2019 засідання від 25 жовтня 2019 року) прийнято рішення про реєстрацію атестатів відповідності на комплексні системи захисту інформації електронних торгівельних майданчиків системи «ПРОЗОРРО»
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312827&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312676&amp;cat_id=302003">
+										21 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312676&amp;cat_id=302003">
+									Співробітники Держспецзв’язку взяли участь у засіданні міжвідомчої експертної групи на тему: «Створення державної системи захисту критичної інфраструктури: попередні підсумки та подальші кроки»
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312677'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="110" height="110" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								На запрошення Національного інституту стратегічних досліджень при РНБО України 18 жовтня 2019 року співробітники Держспецзв’язку взяли участь у засіданні міжвідомчої експертної робочої групи з питань протидії розповсюдженню зброї масового знищення, тероризму та захисту критичної інфраструктури на тему: «Створення державної системи захисту критичної інфраструктури: попередні підсумки та подальші кроки».
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312676&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312681&amp;cat_id=302003">
+										21 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312681&amp;cat_id=302003">
+									Представники Держспецзв'язку взяли участь у ІІ Міжнародному форумі «КІБЕРБЕЗПЕКА. ЗАХИСТИ СВІЙ БІЗНЕС», який проходив у рамках загальнодержавного «МІСЯЦЯ КІБЕРБЕЗПЕКИ»
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312682'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="111" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								У рамках загальнодержавного «Місяця кібербезпеки» 16 жовтня 2019 року Торгово-промисловою палатою України спільно з Держспецзв’язку організовано та проведено ІІ міжнародний Форум «КІБЕРБЕЗПЕКА. ЗАХИСТИ СВІЙ БІЗНЕС», який вже став майданчиком для фахової дискусії про місце і роль влади і бізнесу, громадянського суспільства у формуванні національної екосистеми кібербезпеки. У зазначеному Форумі взяли участь представники основних суб’єктів забезпечення кібербезпеки України (СБУ, Кіберполіція, НБУ), великого та середнього бізнесу, а також ІТ-спільноти.
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312681&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312633&amp;cat_id=302003">
+										18 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312633&amp;cat_id=302003">
+									Допоможи нам стати кращими
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312634'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="97" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								Сьогодні стартує проєкт «Допоможи нам стати кращими».
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312633&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312588&amp;cat_id=302003">
+										17 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312588&amp;cat_id=302003">
+									В Адміністрації Держспецзв’язку представили нового керівника
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312589'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="171" height="114" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								Сьогодні в Адміністрації Держспецзв’язку Віце-прем’єр-міністр – Міністр цифрової трансформації Михайло Федоров та Секретар Ради національної безпеки і оборони України Олексій Данілов представили Валентина Петрова як нового очільника Державної служби спеціального зв’язку та захисту інформації України керівному складу Адміністрації Держспецзв’язку.
+
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312588&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+		<tr>
+			<td style="padding-left : 15px; padding-right : 15px">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+					<tr><td bgcolor="#CAD4E5"><img src="img/1x1.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="img/1x1.gif" width="1" height="15"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+
+      <table border="0" width="100%" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+                <td class="date" style="padding-left : 15px ">
+
+								<em>
+						                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312482&amp;cat_id=302003">
+										15 жовтня 2019
+										</a>
+								</em>
+
+		</td>
+        </tr>
+        <tr>
+          <td class="titlecontent" style="padding-left : 15px ">
+					                  	<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312482&amp;cat_id=302003">
+									Представники Держспецзв’язку взяли участь у тренінгу в рамках загальнодержавного «Місяця кібербезпеки»
+					                    </a>	  </td>
+        </tr>
+        <tr>
+          <td style="padding : 0px 5px 0px 15px; text-align: justify;">
+			<div class="content">
+
+									<table border="0" cellspacing="0" cellpadding="0" align="left">
+										<tbody><tr><td style="background-image: url('img/publishing/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?announceId=312483'); background-position: center" rowspan="2"><img src="img/ramka.gif" width="110" height="110" alt=""></td>
+										<td><img src="img/1x1.gif" width="5" height="1"></td></tr>
+										<tr><td><img src="img/1x1.gif" width="1" height="5"></td></tr>
+									</tbody></table>
+
+								10 жовтня 2019 року в м. Херсон представниками Держспецзв’язку було взято участь в семінарі-тренінгу «Безпека бізнесу в кіберпросторі, що формується» для спеціалістів Херсонської регіональної Торгово-промислової палати України, представників бізнесу і державних структур, який проводився у рамках загальнодержавного «Місяця кібербезпеки».
+
+			</div>
+
+			<div class="date"><a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=312482&amp;cat_id=302003">детально&nbsp;»</a></div>
+
+		</td>
+        </tr>
+
+	</tbody></table>
+
+
+
+						</td>
+						<td><img src="img/1x1.gif" width="10" height="1"></td>
+
+							<td class="colright" valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<img src="/dsszzi/img/publishing/?announceId=298340" style="margin: 2px 0 ">
+</div>
+
+<div align="center">
+<a href="http://www.dsszzi.gov.ua/dsszzi/control/uk/publish/article?art_id=312633&amp;cat_id=302003">
+<img src="/dsszzi/img/publishing/?id=312664" style="margin: 2px 0; width: 200 px">
+</a>
+</div>
+
+
+<div align="center">
+<div class="boxtitle">Контакт-центр для ЗМІ:  </div>
+<div class="boxtitle">(044) 281-92-83, </div>
+<div class="boxtitle">e-mail: press@dsszzi.gov.ua </div>
+</div>
+
+<div align="center">
+<a href="https://ucci.org.ua/events/meetings-of-committees-and-working-groups-of-entrepreneurs/misiats-kiberbezpeki-v-ukrayini" target="_blank">
+<img src="/dsszzi/img/publishing/?id=311747" style="margin: 2px 0 ">
+</a>
+</div>
+
+<div align="center">
+<a href="http://cert.gov.ua/" target="_blank">
+<img src="/dsszzi/doccatalog/document?id=224959" style="margin: 2px 0 ; width:200px">
+</a>
+</div>
+
+<div align="center">
+<a href="http://nazk.gov.ua/" target="_blank">
+<img src="/dsszzi/doccatalog/document?id=263980" style="margin: 2px 0 ; width:200px">
+</a>
+<a href="/dsszzi/control/uk/publish/article?showHidden=1&amp;art_id=303276&amp;cat_id=72508&amp;ctime=1548854188213">
+<div class="boxtitle"><br>Повідом про корупцію<br><br></div>
+</a>
+</div>
+
+
+<div align="center">
+<a href="http://ukc.gov.ua/" target="_blank">
+<img src="/dsszzi/img/publishing/?id=260431" style="margin: 2px 0 ; width:200px">
+</a>
+</div>
+
+<div align="center">
+<img src="/dsszzi/img/publishing/?id=283735" style="margin: 2px 0;">
+</div>
+
+<div align="center">
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3b3c17fd606a4c&amp;origin=http%3A%2F%2Fwww.dsszzi.gov.ua" style="border: none;"></iframe></div><div></div></div></div>
+
+<script>(function(d, s, id) {
+
+var js, fjs = d.getElementsByTagName(s)[0];
+
+if (d.getElementById(id)) return;
+
+js = d.createElement(s); js.id = id;
+
+js.src = "//connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v2.4";
+
+fjs.parentNode.insertBefore(js, fjs);
+
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+<div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/derzhspeczvyazku" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=&amp;container_width=200&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fderzhspeczvyazku&amp;locale=uk_UA&amp;sdk=joey&amp;show_facepile=false&amp;show_posts=false&amp;small_header=false"><span style="vertical-align: bottom; width: 200px; height: 130px;"><iframe name="f3edf7dd27ba6d4" width="1000px" height="1000px" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v2.4/plugins/page.php?adapt_container_width=true&amp;app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df1c7f3473bc0ec%26domain%3Dwww.dsszzi.gov.ua%26origin%3Dhttp%253A%252F%252Fwww.dsszzi.gov.ua%252Ff3b3c17fd606a4c%26relation%3Dparent.parent&amp;container_width=200&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fderzhspeczvyazku&amp;locale=uk_UA&amp;sdk=joey&amp;show_facepile=false&amp;show_posts=false&amp;small_header=false" style="border: none; visibility: visible; width: 200px; height: 130px;" class=""></iframe></span></div>
+
+
+
+
+
+
+
+<a href="http://www.vpo.gov.ua/" target="_blank">
+
+<img src="img/top/M2_UA_RU_300x84.gif" style="margin: 2px 0 2px 0; width:200px">
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+<center>
+
+<br>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="170" height="120">
+
+<param name="src" value="http://www.rnbo.gov.ua/files/2014/banner_gov.swf">
+
+<param name="width" value="170">
+
+<param name="height" value="120">
+
+<embed type="application/x-shockwave-flash" src="http://www.rnbo.gov.ua/files/2014/banner_gov.swf" width="170" height="120">
+
+</object>
+
+</center>
+
+
+
+
+<!--
+
+<div align="center">
+
+<a href="" target="_blank">
+
+<img src="http://www.rnbo.gov.ua/files/2014/banner_gov.swf" style="margin: 2px 0 ; width:200px"/>
+
+</a>
+
+</div>
+
+-->
+
+<table cellpadding="0" cellspacing="1" border="0" style="padding: 0 0px 0 0px">
+
+<tbody><tr><td width="100%" bgcolor="#3D598C">
+<a href="http://www.kmu.gov.ua/kmu/control/uk/publish/article?showHidden=1&amp;art_id=249155553&amp;cat_id=244828445&amp;ctime=1467368400883">
+
+<div class="boxtitle">Держава турбується про тебе</div>
+
+</a>
+
+<br>
+
+<a href="https://dpsu.gov.ua/ua/-Rekviziti-dlya-blagodiynoi-pidtrimki/" target="_blank">
+
+<div class="boxtitle">Благодійна фінансова підтримка прикордонникам та членам їх родин </div>
+
+</a>
+
+<br>
+
+</td>
+
+</tr></tbody></table>
+
+<div align="center">
+
+<a href="http://www.gosrezerv.gov.ua/reserv/control/uk/publish/category?cat_id=155919" target="_blank">
+
+<img src="http://www.gosrezerv.gov.ua/reserv/doccatalog/document?id=156316" style="margin: 2px 0 ; width:200px">
+
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="http://ukc.gov.ua/about/diyalnist/348709/" target="_blank">
+
+<img src="/dsszzi/img/publishing/?id=290494" style="margin: 2px 0 ; width:200px">
+
+</a>
+
+</div>
+
+<div align="center">
+Весь контент доступний за ліцензією Creative Commons Attribution 4.0 International license, якщо не зазначено інше.
+</div>
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td><img src="img/1x1.gif" width="1" height="4"></td></tr>
+</tbody></table>
+
+
+							        <img src="img/1x1.gif" width="200" height="1"><br>
+							</td>
+
+					</tr>
+				</tbody></table><img src="img/1x1.gif" width="1" height="1"><br>
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td class="footer" align="center" colspan="2">
+
+
+		<a href="control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=44418&amp;cat_id=44410">Про цей сайт</a>
+
+
+		|
+		<a href="mailto:info@dsszzi.gov.ua ">Запитання</a>
+
+
+		|
+		<a href="mailto:admin@dsszzi.gov.ua ">Адміністратор</a>
+
+
+		|
+		<a href="mailto:info@dsszzi.gov.ua ">Написати листа</a>
+
+
+	</td>
+</tr>
+<tr height="25">
+		<td align="left" nowrap="nowrap" class="copy"><table width="100%">
+<tbody><tr><td>
+<a class="copy" href="http://www.softline.kiev.ua/ua/publication/content/1128.htm " style="text-decoration : none"><div style="font : 8pt verdana"> &nbsp; Розробник: Корпорація Софтлайн (Україна)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div></a>
+</td>
+<td align="center"><div style="font : 8pt verdana">
+<!--bigmir)net TOP 100-->
+
+<script type="text/javascript" language="javascript"><!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="font-family:Tahoma;font-size:10px;padding:0px;margin:0px;"><div style="width:7px;float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b54_left.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div><div style="float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b54_center.gif\');text-align:left;height:17px;padding-top:2px;background-repeat:repeat-x;"><a href="http://top.bigmir.net/report/16893962/" target="_blank" style="color:#0000ab;text-decoration:none;">bigmir<span style="color:#ff0000;">)</span>net</a>  <span style="color:#98b4f4;">хиты</span> <span style="color:#426ed2;font:10px Tahoma;">'+oBM_STAT.hits+'</span> <span style="color:#98b4f4;">хосты</span> <span style="color:#426ed2;font:10px Tahoma;">'+oBM_STAT.hosts+'</span></div><div style="width:7px;float: left;background:url(\'http://i.bigmir.net/cnt/samples/default/b54_right.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div></div></td></tr></table>');
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16893962,s:16893962,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script><script type="text/javascript" language="javascript" src="http://c.bigmir.net/?o1&amp;v16895348&amp;s16893962&amp;t0&amp;c1&amp;n543960&amp;w0&amp;y0&amp;d24&amp;r1366"></script><table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tbody><tr><td><div style="font-family:Tahoma;font-size:10px;padding:0px;margin:0px;"><div style="width:7px;float:left;background:url('http://i.bigmir.net/cnt/samples/default/b54_left.gif');height:17px;padding-top:2px;background-repeat:no-repeat;"></div><div style="float:left;background:url('http://i.bigmir.net/cnt/samples/default/b54_center.gif');text-align:left;height:17px;padding-top:2px;background-repeat:repeat-x;"><a href="http://top.bigmir.net/report/16893962/" target="_blank" style="color:#0000ab;text-decoration:none;">bigmir<span style="color:#ff0000;">)</span>net</a>  <span style="color:#98b4f4;">хиты</span> <span style="color:#426ed2;font:10px Tahoma;">10711</span> <span style="color:#98b4f4;">хосты</span> <span style="color:#426ed2;font:10px Tahoma;">941</span></div><div style="width:7px;float: left;background:url('http://i.bigmir.net/cnt/samples/default/b54_right.gif');height:17px;padding-top:2px;background-repeat:no-repeat;"></div></div></td></tr></tbody></table>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v16893962&s16893962&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+
+<!--bigmir)net TOP 100-->
+
+
+ </div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-84877560-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-84877560-1');
+</script>
+
+
+</td>
+</tr>
+</tbody></table></td>
+		<td align="right" nowrap="nowrap" class="copy">©
+
+
+
+
+Державна   служба  спеціального  зв'язку   та  захисту  інформації  України
+
+</td>
+</tr>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37167524-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</tbody></table>
+
+
+
+
+			</td>
+		</tr>
+	</tbody></table>
+<script language="JavaScript">
+creatMenuChild('Menu1');
+</script><div id="T39" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S40" onmouseover="overMen(39,2,40,&quot;p.w&quot;,-1)" onmouseout="outMen(40)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',40)" class="SubMen">1918-1941 роки</td></tr><tr><td id="S41" onmouseover="overMen(39,2,41,&quot;p.w&quot;,-1)" onmouseout="outMen(41)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',41)" class="SubMen">1941-1945 роки</td></tr><tr><td id="S42" onmouseover="overMen(39,2,42,&quot;p.w&quot;,-1)" onmouseout="outMen(42)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',42)" class="SubMen">Повоєнні роки</td></tr><tr><td id="S43" onmouseover="overMen(39,2,43,&quot;p.w&quot;,-1)" onmouseout="outMen(43)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81011&amp;cat_id=80663',43)" class="SubMen"> Афганська війна</td></tr><tr><td id="S44" onmouseover="overMen(39,2,44,&quot;p.w&quot;,-1)" onmouseout="outMen(44)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=81015&amp;cat_id=80686',44)" class="SubMen">Чорнобильська катастрофа</td></tr><tr><td id="S45" onmouseover="overMen(39,2,45,&quot;p.w&quot;,-1)" onmouseout="outMen(45)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=90018&amp;cat_id=80687',45)" class="SubMen">Створення Держспецзв`язку</td></tr></tbody></table></div><div id="T38" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S39" onmouseover="overMen(38,1,39,&quot;p.w&quot;,-1)" onmouseout="outMen(39)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',39)" class="SubMenParent">Історія</td></tr><tr><td id="S46" onmouseover="overMen(38,1,46,&quot;p.w&quot;,-1)" onmouseout="outMen(46)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89829&amp;cat_id=87062',46)" class="SubMen">Структура</td></tr><tr><td id="S47" onmouseover="overMen(38,1,47,&quot;p.w&quot;,-1)" onmouseout="outMen(47)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=38696&amp;cat_id=38562',47)" class="SubMen">Керівництво</td></tr><tr><td id="S48" onmouseover="overMen(38,1,48,&quot;p.w&quot;,-1)" onmouseout="outMen(48)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=89831&amp;cat_id=89828',48)" class="SubMen">Завдання</td></tr><tr><td id="S49" onmouseover="overMen(38,1,49,&quot;p.w&quot;,-1)" onmouseout="outMen(49)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91989&amp;cat_id=91988',49)" class="SubMen">Розпорядок роботи</td></tr><tr><td id="S50" onmouseover="overMen(38,1,50,&quot;p.w&quot;,-1)" onmouseout="outMen(50)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92225&amp;cat_id=92224',50)" class="SubMen">Положення</td></tr></tbody></table></div><div id="T52" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S53" onmouseover="overMen(52,2,53,&quot;p.w&quot;,-1)" onmouseout="outMen(53)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97369&amp;cat_id=97368',53)" class="SubMen">Електронні форми звітності</td></tr></tbody></table></div><div id="T55" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S56" onmouseover="overMen(55,3,56,&quot;p.w&quot;,-1)" onmouseout="outMen(56)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96055&amp;cat_id=96052',56)" class="SubMen">Нормативно-правове забезпечення з питань стандартизації</td></tr><tr><td id="S57" onmouseover="overMen(55,3,57,&quot;p.w&quot;,-1)" onmouseout="outMen(57)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=96053',57)" class="SubMen">Нормативно-правове забезпечення з питань оцінки відповідності (сертифікації)</td></tr><tr><td id="S58" onmouseover="overMen(55,3,58,&quot;p.w&quot;,-1)" onmouseout="outMen(58)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96061&amp;cat_id=96054',58)" class="SubMen">Нормативно-правове забезпечення з питань метрології</td></tr></tbody></table></div><div id="T59" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S60" onmouseover="overMen(59,3,60,&quot;p.w&quot;,-1)" onmouseout="outMen(60)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96067&amp;cat_id=96065',60)" class="SubMen">Державні стандарти</td></tr><tr><td id="S61" onmouseover="overMen(59,3,61,&quot;p.w&quot;,-1)" onmouseout="outMen(61)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96070&amp;cat_id=96066',61)" class="SubMen">Галузеві нормативні документи</td></tr></tbody></table></div><div id="T62" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S63" onmouseover="overMen(62,3,63,&quot;p.w&quot;,-1)" onmouseout="outMen(63)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96080&amp;cat_id=96079',63)" class="SubMen">Підстави для проведення</td></tr><tr><td id="S64" onmouseover="overMen(62,3,64,&quot;p.w&quot;,-1)" onmouseout="outMen(64)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96094&amp;cat_id=96093',64)" class="SubMen">Контакти</td></tr></tbody></table></div><div id="T65" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S66" onmouseover="overMen(65,3,66,&quot;p.w&quot;,-1)" onmouseout="outMen(66)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=247097&amp;cat_id=96105',66)" class="SubMen">Положення про метрологічну службу</td></tr></tbody></table></div><div id="T54" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S55" onmouseover="overMen(54,2,55,&quot;p.w&quot;,-1)" onmouseout="outMen(55)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',55)" class="SubMenParent">Нормативно-правове забезпечення</td></tr><tr><td id="S59" onmouseover="overMen(54,2,59,&quot;p.w&quot;,-1)" onmouseout="outMen(59)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',59)" class="SubMenParent">Стандартизація</td></tr><tr><td id="S62" onmouseover="overMen(54,2,62,&quot;p.w&quot;,-1)" onmouseout="outMen(62)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',62)" class="SubMenParent">Оцінка відповідності (сертифікація)</td></tr><tr><td id="S65" onmouseover="overMen(54,2,65,&quot;p.w&quot;,-1)" onmouseout="outMen(65)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',65)" class="SubMenParent">Метрологія</td></tr></tbody></table></div><div id="T51" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S52" onmouseover="overMen(51,1,52,&quot;p.w&quot;,-1)" onmouseout="outMen(52)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',52)" class="SubMenParent">Стан галузі</td></tr><tr><td id="S54" onmouseover="overMen(51,1,54,&quot;p.w&quot;,-1)" onmouseout="outMen(54)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',54)" class="SubMenParent">Стандартизація, оцінка відповідності (сертифікація) та метрологія</td></tr></tbody></table></div><div id="T88" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S89" onmouseover="overMen(88,3,89,&quot;p.w&quot;,-1)" onmouseout="outMen(89)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103363',89)" class="SubMen">2000</td></tr></tbody></table></div><div id="T68" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S69" onmouseover="overMen(68,2,69,&quot;p.w&quot;,-1)" onmouseout="outMen(69)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302003',69)" class="SubMen">2019</td></tr><tr><td id="S70" onmouseover="overMen(68,2,70,&quot;p.w&quot;,-1)" onmouseout="outMen(70)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=284576',70)" class="SubMen">2018</td></tr><tr><td id="S71" onmouseover="overMen(68,2,71,&quot;p.w&quot;,-1)" onmouseout="outMen(71)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268448',71)" class="SubMen">2017</td></tr><tr><td id="S72" onmouseover="overMen(68,2,72,&quot;p.w&quot;,-1)" onmouseout="outMen(72)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240232',72)" class="SubMen">2016</td></tr><tr><td id="S73" onmouseover="overMen(68,2,73,&quot;p.w&quot;,-1)" onmouseout="outMen(73)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=119123',73)" class="SubMen">2015</td></tr><tr><td id="S74" onmouseover="overMen(68,2,74,&quot;p.w&quot;,-1)" onmouseout="outMen(74)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112509',74)" class="SubMen">2014</td></tr><tr><td id="S75" onmouseover="overMen(68,2,75,&quot;p.w&quot;,-1)" onmouseout="outMen(75)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105668',75)" class="SubMen">2013</td></tr><tr><td id="S76" onmouseover="overMen(68,2,76,&quot;p.w&quot;,-1)" onmouseout="outMen(76)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',76)" class="SubMen">2019</td></tr><tr><td id="S77" onmouseover="overMen(68,2,77,&quot;p.w&quot;,-1)" onmouseout="outMen(77)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103351',77)" class="SubMen">2012</td></tr><tr><td id="S78" onmouseover="overMen(68,2,78,&quot;p.w&quot;,-1)" onmouseout="outMen(78)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103352',78)" class="SubMen">2011</td></tr><tr><td id="S79" onmouseover="overMen(68,2,79,&quot;p.w&quot;,-1)" onmouseout="outMen(79)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103353',79)" class="SubMen">2010</td></tr><tr><td id="S80" onmouseover="overMen(68,2,80,&quot;p.w&quot;,-1)" onmouseout="outMen(80)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103354',80)" class="SubMen">2009</td></tr><tr><td id="S81" onmouseover="overMen(68,2,81,&quot;p.w&quot;,-1)" onmouseout="outMen(81)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103355',81)" class="SubMen">2008</td></tr><tr><td id="S82" onmouseover="overMen(68,2,82,&quot;p.w&quot;,-1)" onmouseout="outMen(82)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103356',82)" class="SubMen">2007</td></tr><tr><td id="S83" onmouseover="overMen(68,2,83,&quot;p.w&quot;,-1)" onmouseout="outMen(83)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103357',83)" class="SubMen">2006</td></tr><tr><td id="S84" onmouseover="overMen(68,2,84,&quot;p.w&quot;,-1)" onmouseout="outMen(84)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103358',84)" class="SubMen">2005</td></tr><tr><td id="S85" onmouseover="overMen(68,2,85,&quot;p.w&quot;,-1)" onmouseout="outMen(85)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103359',85)" class="SubMen">2004</td></tr><tr><td id="S86" onmouseover="overMen(68,2,86,&quot;p.w&quot;,-1)" onmouseout="outMen(86)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103360',86)" class="SubMen">2003</td></tr><tr><td id="S87" onmouseover="overMen(68,2,87,&quot;p.w&quot;,-1)" onmouseout="outMen(87)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103361',87)" class="SubMen">2002</td></tr><tr><td id="S88" onmouseover="overMen(68,2,88,&quot;p.w&quot;,-1)" onmouseout="outMen(88)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=103362',88)" class="SubMenParent">2001</td></tr></tbody></table></div><div id="T67" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S68" onmouseover="overMen(67,1,68,&quot;p.w&quot;,-1)" onmouseout="outMen(68)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',68)" class="SubMenParent">Поточні новини</td></tr><tr><td id="S90" onmouseover="overMen(67,1,90,&quot;p.w&quot;,-1)" onmouseout="outMen(90)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38712',90)" class="SubMen">Статті та інтерв`ю </td></tr></tbody></table></div><div id="T91" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S92" onmouseover="overMen(91,1,92,&quot;p.w&quot;,-1)" onmouseout="outMen(92)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=88291&amp;cat_id=38828',92)" class="SubMen">Закони</td></tr><tr><td id="S93" onmouseover="overMen(91,1,93,&quot;p.w&quot;,-1)" onmouseout="outMen(93)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=300864&amp;cat_id=38829',93)" class="SubMen">Укази</td></tr><tr><td id="S94" onmouseover="overMen(91,1,94,&quot;p.w&quot;,-1)" onmouseout="outMen(94)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38834',94)" class="SubMen">Постанови КМУ</td></tr><tr><td id="S95" onmouseover="overMen(91,1,95,&quot;p.w&quot;,-1)" onmouseout="outMen(95)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=49139',95)" class="SubMen">Розпорядження КМУ</td></tr><tr><td id="S96" onmouseover="overMen(91,1,96,&quot;p.w&quot;,-1)" onmouseout="outMen(96)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?showHidden=1&amp;art_id=306436&amp;cat_id=38835&amp;ctime=1554728725967',96)" class="SubMen">Накази</td></tr><tr><td id="S97" onmouseover="overMen(91,1,97,&quot;p.w&quot;,-1)" onmouseout="outMen(97)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38836',97)" class="SubMen">Стандарти </td></tr><tr><td id="S98" onmouseover="overMen(91,1,98,&quot;p.w&quot;,-1)" onmouseout="outMen(98)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=75199',98)" class="SubMen">Судова практика</td></tr><tr><td id="S99" onmouseover="overMen(91,1,99,&quot;p.w&quot;,-1)" onmouseout="outMen(99)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/publish/article?showHidden=1&amp;art_id=89740&amp;cat_id=89734&amp;ctime=1547204009788',99)" class="SubMen">Інформаційний перелік Фонду НД ТЗІ та КЗІ</td></tr><tr><td id="S100" onmouseover="overMen(91,1,100,&quot;p.w&quot;,-1)" onmouseout="outMen(100)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=303179',100)" class="SubMen">Правове забезпечення реалізації гендерної рівності</td></tr></tbody></table></div><div id="T104" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S105" onmouseover="overMen(104,2,105,&quot;p.w&quot;,-1)" onmouseout="outMen(105)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=302607&amp;cat_id=302605',105)" class="SubMen">Планування заходів з відстеження</td></tr><tr><td id="S106" onmouseover="overMen(104,2,106,&quot;p.w&quot;,-1)" onmouseout="outMen(106)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=91077',106)" class="SubMen">Звіти про відстеження</td></tr><tr><td id="S107" onmouseover="overMen(104,2,107,&quot;p.w&quot;,-1)" onmouseout="outMen(107)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=297997&amp;cat_id=302606',107)" class="SubMen">Перелік регуляторних актів</td></tr></tbody></table></div><div id="T101" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S102" onmouseover="overMen(101,1,102,&quot;p.w&quot;,-1)" onmouseout="outMen(102)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=88858',102)" class="SubMen">Планування регуляторної діяльності</td></tr><tr><td id="S103" onmouseover="overMen(101,1,103,&quot;p.w&quot;,-1)" onmouseout="outMen(103)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=38837',103)" class="SubMen">Оприлюднення проектів регуляторних актів</td></tr><tr><td id="S104" onmouseover="overMen(101,1,104,&quot;p.w&quot;,-1)" onmouseout="outMen(104)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',104)" class="SubMenParent">Відстеження результативності регуляторних актів</td></tr><tr><td id="S108" onmouseover="overMen(101,1,108,&quot;p.w&quot;,-1)" onmouseout="outMen(108)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=302604',108)" class="SubMen">Інформація про здійснення регуляторної діяльності</td></tr></tbody></table></div><div id="T111" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S112" onmouseover="overMen(111,2,112,&quot;p.w&quot;,-1)" onmouseout="outMen(112)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97269',112)" class="SubMen">МСЕ (Міжнародний союз електрозв`язку)</td></tr><tr><td id="S113" onmouseover="overMen(111,2,113,&quot;p.w&quot;,-1)" onmouseout="outMen(113)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97324&amp;cat_id=97323',113)" class="SubMen">Європейська конференція адміністрацій зв'язку (СЕПТ)</td></tr></tbody></table></div><div id="T109" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S110" onmouseover="overMen(109,1,110,&quot;p.w&quot;,-1)" onmouseout="outMen(110)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=125660&amp;cat_id=97065',110)" class="SubMen">Європейська інтеграція</td></tr><tr><td id="S111" onmouseover="overMen(109,1,111,&quot;p.w&quot;,-1)" onmouseout="outMen(111)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',111)" class="SubMenParent">Співробітництво з міжнародними та регіональними організаціями</td></tr><tr><td id="S114" onmouseover="overMen(109,1,114,&quot;p.w&quot;,-1)" onmouseout="outMen(114)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=97251&amp;cat_id=97250',114)" class="SubMen">Співробітництво з НАТО</td></tr><tr><td id="S115" onmouseover="overMen(109,1,115,&quot;p.w&quot;,-1)" onmouseout="outMen(115)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=125658&amp;cat_id=96985',115)" class="SubMen">Двостороннє співробітництво</td></tr></tbody></table></div><div id="T123" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S124" onmouseover="overMen(123,3,124,&quot;p.w&quot;,-1)" onmouseout="outMen(124)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268817',124)" class="SubMen">Рішення Адміністрації Держспецзв'язку про видачу ліцензіі</td></tr><tr><td id="S125" onmouseover="overMen(123,3,125,&quot;p.w&quot;,-1)" onmouseout="outMen(125)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=268899',125)" class="SubMen">Рішення Адміністрації Держспецзв'язку про відмову у видачі ліцензіі</td></tr><tr><td id="S126" onmouseover="overMen(123,3,126,&quot;p.w&quot;,-1)" onmouseout="outMen(126)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=269304',126)" class="SubMen">Рішення Адміністрації Держспецзв'язку про залишення заяв про отримання ліцензії без розгляду</td></tr><tr><td id="S127" onmouseover="overMen(123,3,127,&quot;p.w&quot;,-1)" onmouseout="outMen(127)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=290908',127)" class="SubMen">Рішення Адміністрації Держспецзв’язку про анулювання ліцензії</td></tr><tr><td id="S128" onmouseover="overMen(123,3,128,&quot;p.w&quot;,-1)" onmouseout="outMen(128)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=309117&amp;cat_id=309116',128)" class="SubMen">Рішення Адміністрації Держспецзв’язку про звуження провадження господарської діяльності</td></tr></tbody></table></div><div id="T117" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S118" onmouseover="overMen(117,2,118,&quot;p.w&quot;,-1)" onmouseout="outMen(118)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=284081&amp;cat_id=266373',118)" class="SubMen">Перелік суб’єктів господарювання, які мають ліцензії на провадження господарської діяльності у галузі КЗІ та ТЗІ, за переліком Уряду</td></tr><tr><td id="S119" onmouseover="overMen(117,2,119,&quot;p.w&quot;,-1)" onmouseout="outMen(119)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266374',119)" class="SubMen">Перелік законодавчих та нормативно-правових актів, що визначають провадження ліцензованої діяльності у галузі КЗІ та ТЗІ</td></tr><tr><td id="S120" onmouseover="overMen(117,2,120,&quot;p.w&quot;,-1)" onmouseout="outMen(120)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266376',120)" class="SubMen">Порядок ліцензування господарської діяльності у галузі КЗІ (крім послуг електронного цифрового підпису) та ТЗІ, за переліком, що визначається Урядом</td></tr><tr><td id="S121" onmouseover="overMen(117,2,121,&quot;p.w&quot;,-1)" onmouseout="outMen(121)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=266377',121)" class="SubMen">Форми документів, що подаються до органу ліцензування</td></tr><tr><td id="S122" onmouseover="overMen(117,2,122,&quot;p.w&quot;,-1)" onmouseout="outMen(122)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=266382&amp;cat_id=266378',122)" class="SubMen">Порядок плати за видачу (переоформлення) ліцензії</td></tr><tr><td id="S123" onmouseover="overMen(117,2,123,&quot;p.w&quot;,-1)" onmouseout="outMen(123)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',123)" class="SubMenParent">Рішення Адміністрації Держспецзв'язку з питань ліцензування господарської діяльності у галузі криптографічного та технічного захисту інформації</td></tr></tbody></table></div><div id="T129" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S130" onmouseover="overMen(129,2,130,&quot;p.w&quot;,-1)" onmouseout="outMen(130)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=39057&amp;cat_id=39136',130)" class="SubMen">Криптографічний захист інформації</td></tr><tr><td id="S131" onmouseover="overMen(129,2,131,&quot;p.w&quot;,-1)" onmouseout="outMen(131)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=39181',131)" class="SubMen">Технічний захист інформації </td></tr></tbody></table></div><div id="T134" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S135" onmouseover="overMen(134,3,135,&quot;p.w&quot;,-1)" onmouseout="outMen(135)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72142&amp;cat_id=72106',135)" class="SubMen">Подання заявки на проведення експертизи</td></tr><tr><td id="S136" onmouseover="overMen(134,3,136,&quot;p.w&quot;,-1)" onmouseout="outMen(136)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72144&amp;cat_id=72107',136)" class="SubMen">Розгляд заявки</td></tr><tr><td id="S137" onmouseover="overMen(134,3,137,&quot;p.w&quot;,-1)" onmouseout="outMen(137)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72146&amp;cat_id=72108',137)" class="SubMen">Проведення експертизи та видача експертного висновку</td></tr><tr><td id="S138" onmouseover="overMen(134,3,138,&quot;p.w&quot;,-1)" onmouseout="outMen(138)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=72269&amp;cat_id=72268',138)" class="SubMen">Консультації з питань державної експертизи</td></tr><tr><td id="S139" onmouseover="overMen(134,3,139,&quot;p.w&quot;,-1)" onmouseout="outMen(139)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=283948&amp;cat_id=72110',139)" class="SubMen">Перелік засобів КЗІ, які мають експертний висновок за результатами державної експертизи у галузі КЗІ</td></tr></tbody></table></div><div id="T132" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S133" onmouseover="overMen(132,2,133,&quot;p.w&quot;,-1)" onmouseout="outMen(133)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=44795',133)" class="SubMen">Технічний захист інформації </td></tr><tr><td id="S134" onmouseover="overMen(132,2,134,&quot;p.w&quot;,-1)" onmouseout="outMen(134)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=39213&amp;cat_id=44796',134)" class="SubMenParent">Криптографічний захист інформації</td></tr></tbody></table></div><div id="T140" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S141" onmouseover="overMen(140,2,141,&quot;p.w&quot;,-1)" onmouseout="outMen(141)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=117950&amp;cat_id=117930',141)" class="SubMen">Нормативно-правові акти</td></tr><tr><td id="S142" onmouseover="overMen(140,2,142,&quot;p.w&quot;,-1)" onmouseout="outMen(142)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117920',142)" class="SubMen">Плани</td></tr><tr><td id="S143" onmouseover="overMen(140,2,143,&quot;p.w&quot;,-1)" onmouseout="outMen(143)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117932',143)" class="SubMen">Звіти</td></tr></tbody></table></div><div id="T144" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S145" onmouseover="overMen(144,2,145,&quot;p.w&quot;,-1)" onmouseout="outMen(145)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113050&amp;cat_id=112881',145)" class="SubMen">Кадрова політика</td></tr><tr><td id="S146" onmouseover="overMen(144,2,146,&quot;p.w&quot;,-1)" onmouseout="outMen(146)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=113052&amp;cat_id=112886',146)" class="SubMen">Соціальний захист</td></tr><tr><td id="S147" onmouseover="overMen(144,2,147,&quot;p.w&quot;,-1)" onmouseout="outMen(147)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112887',147)" class="SubMen">Підготовка, підвищення кваліфікації</td></tr><tr><td id="S148" onmouseover="overMen(144,2,148,&quot;p.w&quot;,-1)" onmouseout="outMen(148)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=252827&amp;cat_id=112888',148)" class="SubMen">Відомчі нагороди</td></tr><tr><td id="S149" onmouseover="overMen(144,2,149,&quot;p.w&quot;,-1)" onmouseout="outMen(149)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=252832&amp;cat_id=112889',149)" class="SubMen">Спорт</td></tr><tr><td id="S150" onmouseover="overMen(144,2,150,&quot;p.w&quot;,-1)" onmouseout="outMen(150)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112890',150)" class="SubMen">Події</td></tr></tbody></table></div><div id="T116" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S117" onmouseover="overMen(116,1,117,&quot;p.w&quot;,-1)" onmouseout="outMen(117)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',117)" class="SubMenParent">Ліцензування</td></tr><tr><td id="S129" onmouseover="overMen(116,1,129,&quot;p.w&quot;,-1)" onmouseout="outMen(129)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',129)" class="SubMenParent">Сертифікація</td></tr><tr><td id="S132" onmouseover="overMen(116,1,132,&quot;p.w&quot;,-1)" onmouseout="outMen(132)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',132)" class="SubMenParent">Експертиза</td></tr><tr><td id="S140" onmouseover="overMen(116,1,140,&quot;p.w&quot;,-1)" onmouseout="outMen(140)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',140)" class="SubMenParent">Державний контроль</td></tr><tr><td id="S144" onmouseover="overMen(116,1,144,&quot;p.w&quot;,-1)" onmouseout="outMen(144)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',144)" class="SubMenParent">Кадри</td></tr><tr><td id="S151" onmouseover="overMen(116,1,151,&quot;p.w&quot;,-1)" onmouseout="outMen(151)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92106&amp;cat_id=92105',151)" class="SubMen">Перелік платних адміністративних послуг</td></tr><tr><td id="S152" onmouseover="overMen(116,1,152,&quot;p.w&quot;,-1)" onmouseout="outMen(152)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=89734',152)" class="SubMen">Фонд нормативних документів у сфері технічного та криптографічного захисту інформації </td></tr><tr><td id="S153" onmouseover="overMen(116,1,153,&quot;p.w&quot;,-1)" onmouseout="outMen(153)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=104562',153)" class="SubMen">Погодження призначень</td></tr><tr><td id="S154" onmouseover="overMen(116,1,154,&quot;p.w&quot;,-1)" onmouseout="outMen(154)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=308322&amp;cat_id=308321',154)" class="SubMen">Оператори НСКЗ</td></tr><tr><td id="S155" onmouseover="overMen(116,1,155,&quot;p.w&quot;,-1)" onmouseout="outMen(155)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=267819',155)" class="SubMen">Технічне регулювання у сфері захисту інформації</td></tr></tbody></table></div><div id="T157" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S158" onmouseover="overMen(157,2,158,&quot;p.w&quot;,-1)" onmouseout="outMen(158)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96055&amp;cat_id=96052',158)" class="SubMen">Нормативно-правове забезпечення з питань стандартизації</td></tr><tr><td id="S159" onmouseover="overMen(157,2,159,&quot;p.w&quot;,-1)" onmouseout="outMen(159)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=96053',159)" class="SubMen">Нормативно-правове забезпечення з питань оцінки відповідності (сертифікації)</td></tr><tr><td id="S160" onmouseover="overMen(157,2,160,&quot;p.w&quot;,-1)" onmouseout="outMen(160)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96061&amp;cat_id=96054',160)" class="SubMen">Нормативно-правове забезпечення з питань метрології</td></tr></tbody></table></div><div id="T161" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S162" onmouseover="overMen(161,2,162,&quot;p.w&quot;,-1)" onmouseout="outMen(162)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96067&amp;cat_id=96065',162)" class="SubMen">Державні стандарти</td></tr><tr><td id="S163" onmouseover="overMen(161,2,163,&quot;p.w&quot;,-1)" onmouseout="outMen(163)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96070&amp;cat_id=96066',163)" class="SubMen">Галузеві нормативні документи</td></tr></tbody></table></div><div id="T164" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S165" onmouseover="overMen(164,2,165,&quot;p.w&quot;,-1)" onmouseout="outMen(165)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96080&amp;cat_id=96079',165)" class="SubMen">Підстави для проведення</td></tr><tr><td id="S166" onmouseover="overMen(164,2,166,&quot;p.w&quot;,-1)" onmouseout="outMen(166)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=96094&amp;cat_id=96093',166)" class="SubMen">Контакти</td></tr></tbody></table></div><div id="T167" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S168" onmouseover="overMen(167,2,168,&quot;p.w&quot;,-1)" onmouseout="outMen(168)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=247097&amp;cat_id=96105',168)" class="SubMen">Положення про метрологічну службу</td></tr></tbody></table></div><div id="T156" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S157" onmouseover="overMen(156,1,157,&quot;p.w&quot;,-1)" onmouseout="outMen(157)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',157)" class="SubMenParent">Нормативно-правове забезпечення</td></tr><tr><td id="S161" onmouseover="overMen(156,1,161,&quot;p.w&quot;,-1)" onmouseout="outMen(161)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',161)" class="SubMenParent">Стандартизація</td></tr><tr><td id="S164" onmouseover="overMen(156,1,164,&quot;p.w&quot;,-1)" onmouseout="outMen(164)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',164)" class="SubMenParent">Оцінка відповідності (сертифікація)</td></tr><tr><td id="S167" onmouseover="overMen(156,1,167,&quot;p.w&quot;,-1)" onmouseout="outMen(167)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',167)" class="SubMenParent">Метрологія</td></tr></tbody></table></div><div id="T170" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S171" onmouseover="overMen(170,1,171,&quot;p.w&quot;,-1)" onmouseout="outMen(171)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',171)" class="SubMen">Відкриті торги</td></tr><tr><td id="S172" onmouseover="overMen(170,1,172,&quot;p.w&quot;,-1)" onmouseout="outMen(172)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',172)" class="SubMen">Торги з обмеженою участю</td></tr><tr><td id="S173" onmouseover="overMen(170,1,173,&quot;p.w&quot;,-1)" onmouseout="outMen(173)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',173)" class="SubMen">Двоступеневі торги</td></tr><tr><td id="S174" onmouseover="overMen(170,1,174,&quot;p.w&quot;,-1)" onmouseout="outMen(174)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=74363',174)" class="SubMen">Річні плани державних закупівель</td></tr></tbody></table></div><div id="T175" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S176" onmouseover="overMen(175,1,176,&quot;p.w&quot;,-1)" onmouseout="outMen(176)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=79888',176)" class="SubMen">Стан фінансування Держспецзв`язку</td></tr><tr><td id="S177" onmouseover="overMen(175,1,177,&quot;p.w&quot;,-1)" onmouseout="outMen(177)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105467',177)" class="SubMen">Звітність</td></tr><tr><td id="S178" onmouseover="overMen(175,1,178,&quot;p.w&quot;,-1)" onmouseout="outMen(178)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=111319&amp;cat_id=111318',178)" class="SubMen">Події</td></tr></tbody></table></div><div id="T179" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S180" onmouseover="overMen(179,1,180,&quot;p.w&quot;,-1)" onmouseout="outMen(180)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105743',180)" class="SubMen">Керівні документи</td></tr><tr><td id="S181" onmouseover="overMen(179,1,181,&quot;p.w&quot;,-1)" onmouseout="outMen(181)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105744',181)" class="SubMen">Діяльність</td></tr></tbody></table></div><div id="T183" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S184" onmouseover="overMen(183,2,184,&quot;p.w&quot;,-1)" onmouseout="outMen(184)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=90882',184)" class="SubMen">Склад Громадської ради</td></tr><tr><td id="S185" onmouseover="overMen(183,2,185,&quot;p.w&quot;,-1)" onmouseout="outMen(185)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=90883',185)" class="SubMen">Положення про Громадську раду при Держспецзв`язку та Регламент</td></tr><tr><td id="S186" onmouseover="overMen(183,2,186,&quot;p.w&quot;,-1)" onmouseout="outMen(186)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=303296',186)" class="SubMen">Оголошення Громадської ради</td></tr></tbody></table></div><div id="T182" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S183" onmouseover="overMen(182,1,183,&quot;p.w&quot;,-1)" onmouseout="outMen(183)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',183)" class="SubMenParent">Громадська рада</td></tr><tr><td id="S187" onmouseover="overMen(182,1,187,&quot;p.w&quot;,-1)" onmouseout="outMen(187)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97585',187)" class="SubMen">Плани</td></tr><tr><td id="S188" onmouseover="overMen(182,1,188,&quot;p.w&quot;,-1)" onmouseout="outMen(188)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=97586',188)" class="SubMen">Звіти</td></tr><tr><td id="S189" onmouseover="overMen(182,1,189,&quot;p.w&quot;,-1)" onmouseout="outMen(189)" onmousedown="return clickMen('http://zakon3.rada.gov.ua/laws/show/976-2008-П',189)" class="SubMen">Громадська експертиза</td></tr><tr><td id="S190" onmouseover="overMen(182,1,190,&quot;p.w&quot;,-1)" onmouseout="outMen(190)" onmousedown="return clickMen('http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/category?cat_id=38837',190)" class="SubMen">Консультації з громадськістю</td></tr></tbody></table></div><div id="T191" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S192" onmouseover="overMen(191,1,192,&quot;p.w&quot;,-1)" onmouseout="outMen(192)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=244528&amp;cat_id=106582',192)" class="SubMen">Наукові установи</td></tr><tr><td id="S193" onmouseover="overMen(191,1,193,&quot;p.w&quot;,-1)" onmouseout="outMen(193)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=106583',193)" class="SubMen">Секція НТР</td></tr><tr><td id="S194" onmouseover="overMen(191,1,194,&quot;p.w&quot;,-1)" onmouseout="outMen(194)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=106589&amp;cat_id=106588',194)" class="SubMen">План заходів</td></tr></tbody></table></div><div id="T206" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S207" onmouseover="overMen(206,3,207,&quot;p.w&quot;,-1)" onmouseout="outMen(207)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94237',207)" class="SubMen">Накази</td></tr><tr><td id="S208" onmouseover="overMen(206,3,208,&quot;p.w&quot;,-1)" onmouseout="outMen(208)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94238',208)" class="SubMen">Розпорядження</td></tr></tbody></table></div><div id="T209" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S210" onmouseover="overMen(209,3,210,&quot;p.w&quot;,-1)" onmouseout="outMen(210)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94260',210)" class="SubMen">Накази</td></tr><tr><td id="S211" onmouseover="overMen(209,3,211,&quot;p.w&quot;,-1)" onmouseout="outMen(211)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94261',211)" class="SubMen">Розпорядження</td></tr></tbody></table></div><div id="T212" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S213" onmouseover="overMen(212,3,213,&quot;p.w&quot;,-1)" onmouseout="outMen(213)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94283',213)" class="SubMen">Накази</td></tr><tr><td id="S214" onmouseover="overMen(212,3,214,&quot;p.w&quot;,-1)" onmouseout="outMen(214)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94284',214)" class="SubMen">Розпорядження</td></tr></tbody></table></div><div id="T215" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S216" onmouseover="overMen(215,3,216,&quot;p.w&quot;,-1)" onmouseout="outMen(216)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94306',216)" class="SubMen">Накази</td></tr><tr><td id="S217" onmouseover="overMen(215,3,217,&quot;p.w&quot;,-1)" onmouseout="outMen(217)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94307',217)" class="SubMen">Розпорядження</td></tr></tbody></table></div><div id="T218" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S219" onmouseover="overMen(218,3,219,&quot;p.w&quot;,-1)" onmouseout="outMen(219)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=94329',219)" class="SubMen">Накази</td></tr><tr><td id="S220" onmouseover="overMen(218,3,220,&quot;p.w&quot;,-1)" onmouseout="outMen(220)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',220)" class="SubMen">Розпорядження</td></tr></tbody></table></div><div id="T221" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S222" onmouseover="overMen(221,3,222,&quot;p.w&quot;,-1)" onmouseout="outMen(222)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=105461',222)" class="SubMen">Накази</td></tr></tbody></table></div><div id="T205" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S206" onmouseover="overMen(205,2,206,&quot;p.w&quot;,-1)" onmouseout="outMen(206)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',206)" class="SubMenParent">2007</td></tr><tr><td id="S209" onmouseover="overMen(205,2,209,&quot;p.w&quot;,-1)" onmouseout="outMen(209)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',209)" class="SubMenParent">2008</td></tr><tr><td id="S212" onmouseover="overMen(205,2,212,&quot;p.w&quot;,-1)" onmouseout="outMen(212)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',212)" class="SubMenParent">2009</td></tr><tr><td id="S215" onmouseover="overMen(205,2,215,&quot;p.w&quot;,-1)" onmouseout="outMen(215)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',215)" class="SubMenParent">2010</td></tr><tr><td id="S218" onmouseover="overMen(205,2,218,&quot;p.w&quot;,-1)" onmouseout="outMen(218)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',218)" class="SubMenParent">2011</td></tr><tr><td id="S221" onmouseover="overMen(205,2,221,&quot;p.w&quot;,-1)" onmouseout="outMen(221)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',221)" class="SubMenParent">2012</td></tr><tr><td id="S223" onmouseover="overMen(205,2,223,&quot;p.w&quot;,-1)" onmouseout="outMen(223)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=106559',223)" class="SubMen">2013</td></tr><tr><td id="S224" onmouseover="overMen(205,2,224,&quot;p.w&quot;,-1)" onmouseout="outMen(224)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=112644',224)" class="SubMen">2014</td></tr><tr><td id="S225" onmouseover="overMen(205,2,225,&quot;p.w&quot;,-1)" onmouseout="outMen(225)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=121207',225)" class="SubMen">2015</td></tr><tr><td id="S226" onmouseover="overMen(205,2,226,&quot;p.w&quot;,-1)" onmouseout="outMen(226)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=240491',226)" class="SubMen">2016</td></tr></tbody></table></div><div id="T200" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S201" onmouseover="overMen(200,1,201,&quot;p.w&quot;,-1)" onmouseout="outMen(201)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92341&amp;cat_id=92337',201)" class="SubMen">Законодавство про доступ до публічної інформації</td></tr><tr><td id="S202" onmouseover="overMen(200,1,202,&quot;p.w&quot;,-1)" onmouseout="outMen(202)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92347&amp;cat_id=92338',202)" class="SubMen">Форма запиту на отримання публічної інформації</td></tr><tr><td id="S203" onmouseover="overMen(200,1,203,&quot;p.w&quot;,-1)" onmouseout="outMen(203)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92345&amp;cat_id=92339',203)" class="SubMen">Перелік відомостей, що становлять службову інформацію</td></tr><tr><td id="S204" onmouseover="overMen(200,1,204,&quot;p.w&quot;,-1)" onmouseout="outMen(204)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92343&amp;cat_id=92340',204)" class="SubMen">Найбільш запитувана інформація</td></tr><tr><td id="S205" onmouseover="overMen(200,1,205,&quot;p.w&quot;,-1)" onmouseout="outMen(205)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',205)" class="SubMenParent">Реєстр документів що містять публічну інформацію</td></tr><tr><td id="S227" onmouseover="overMen(200,1,227,&quot;p.w&quot;,-1)" onmouseout="outMen(227)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=92469',227)" class="SubMen">Звіти</td></tr><tr><td id="S228" onmouseover="overMen(200,1,228,&quot;p.w&quot;,-1)" onmouseout="outMen(228)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=92471&amp;cat_id=92470',228)" class="SubMen">Порядок оскарження рішень розпорядника інформації або його бездіяльності</td></tr></tbody></table></div><div id="T231" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S232" onmouseover="overMen(231,2,232,&quot;p.w&quot;,-1)" onmouseout="outMen(232)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91846&amp;cat_id=91840',232)" class="SubMen">Порядок прийому</td></tr><tr><td id="S233" onmouseover="overMen(231,2,233,&quot;p.w&quot;,-1)" onmouseout="outMen(233)" onmousedown="return clickMen('http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/article?showHidden=1&amp;art_id=91973&amp;cat_id=91841',233)" class="SubMen">Графік прийому</td></tr></tbody></table></div><div id="T229" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S230" onmouseover="overMen(229,1,230,&quot;p.w&quot;,-1)" onmouseout="outMen(230)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=91842&amp;cat_id=91838',230)" class="SubMen">Нормативні акти</td></tr><tr><td id="S231" onmouseover="overMen(229,1,231,&quot;p.w&quot;,-1)" onmouseout="outMen(231)" onmousedown="return clickMen('http://www.dsszzi.gov.ua/dsszzi/control/uk/;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1',231)" class="SubMenParent">Прийом громадян</td></tr><tr><td id="S234" onmouseover="overMen(229,1,234,&quot;p.w&quot;,-1)" onmouseout="outMen(234)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=108937',234)" class="SubMen">Інформація про стан роботи зі зверненнями</td></tr></tbody></table></div><div id="T237" class="popMenu" onselectstart="return false" ondragstart="return false" style="background-color : #375BB0"><table border="0" cellspacing="1" cellpadding="0" width="170"><tbody><tr><td id="S238" onmouseover="overMen(237,1,238,&quot;p.w&quot;,-1)" onmouseout="outMen(238)" onmousedown="return clickMen('control/uk/publish/article;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?art_id=117154&amp;cat_id=117423',238)" class="SubMen">Загальна інформація</td></tr><tr><td id="S239" onmouseover="overMen(237,1,239,&quot;p.w&quot;,-1)" onmouseout="outMen(239)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117425',239)" class="SubMen">Перелік посад та осіб, щодо яких проводиться перевірка</td></tr><tr><td id="S240" onmouseover="overMen(237,1,240,&quot;p.w&quot;,-1)" onmouseout="outMen(240)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=117424',240)" class="SubMen">Нормативна база</td></tr><tr><td id="S241" onmouseover="overMen(237,1,241,&quot;p.w&quot;,-1)" onmouseout="outMen(241)" onmousedown="return clickMen('control/uk/publish/category;jsessionid=EE7F876333AAD9F65D0946F3FF8D04D3.app1?cat_id=209487',241)" class="SubMen">Перелік посад і осіб які пройшли перевірку</td></tr></tbody></table></div>
+
+
+
+
+
+
+<div id="SL_balloon_obj" alt="0" style="display: block;"><div id="SL_button" class="SL_ImTranslatorLogo" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/imtranslator-s.png&quot;); display: none;"></div><div id="SL_shadow_translation_result2" style="display: none;"></div><div id="SL_shadow_translator" style="left: -10000px; top: -10000px; display: none;"><div id="SL_planshet"><div id="SL_arrow_up" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/up.png&quot;);"></div><div id="SL_Bproviders"></div><div id="SL_alert_bbl" style="display: none;"><div id="SLHKclose" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/delete.png&quot;);"></div><div id="SL_alert_cont"></div></div><div id="SL_TB"><table id="SL_tables" cellspacing="1"><tr><td class="SL_td" width="10%" align="right"><input id="SL_locer" type="checkbox" title="Lock-in language"></td><td class="SL_td" width="20%" align="left"><select id="SL_lng_from" class="SL_lngs"><option value="auto">Detect language</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></td><td class="SL_td" width="3" align="center"><div id="SL_switch_b" title="Switch languages" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/switchb.png&quot;);"></div></td><td class="SL_td" width="20%" align="left"><select id="SL_lng_to" class="SL_lngs"><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option selected="selected" value="en">English</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></td><td class="SL_td" width="5%" align="center"> </td><td class="SL_td" width="8%" align="center"><div id="SL_TTS_voice" title="undefined" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/ttsvoice.png&quot;);"></div></td><td class="SL_td" width="8%" align="center"><div id="SL_copy" title="Copy translation" class="SL_copy" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/copy.png&quot;);"></div></td><td class="SL_td" width="8%" align="center"><div id="SL_bbl_font_patch"></div><div id="SL_bbl_font" title="Font size" class="SL_bbl_font" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/font.png&quot;);"></div></td><td class="SL_td" width="8%" align="center"><div id="SL_bbl_help" title="Help" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/bhelp.png&quot;);"></div></td><td class="SL_td" width="15%" align="right"><div id="SL_pin" class="SL_pin_off" title="Pin pop-up bubble" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/pin-on.png&quot;);"></div></td></tr></table></div></div><div id="SL_shadow_translation_result" style="visibility: visible;"></div><div id="SL_loading" class="SL_loading" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/loading.gif&quot;);"></div><div id="SL_player2"></div><div id="SL_alert100">Text-to-speech function is limited to 200 characters</div><div id="SL_Balloon_options" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/bg3.png&quot;) rgb(255, 255, 255);"><div id="SL_arrow_down" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/down.png&quot;);"></div><table id="SL_tbl_opt" width="100%"><tr><td class="SL_td" width="5%" align="center"><input id="SL_BBL_locer" type="checkbox" checked="1" title="Show Translator's button 3 second(s)"></td><td class="SL_td" width="5%" align="left"><div id="SL_BBL_IMG" title="Show Translator's button 3 second(s)" style="background: url(&quot;chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/img/util/bbl-logo.png&quot;);"></div></td><td class="SL_td" width="70%" align="center"><a href="chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/html/options/options.html?bbl" target="_blank" class="SL_options" title="Show options">Options</a> : <a href="chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/html/options/options.html?hist" target="_blank" class="SL_options" title="Translation History">History</a> : <a href="chrome-extension://noaijdpnepcgjemiklgfkcfbkokogabh/content/html/options/options.html?feed" target="_blank" class="SL_options" title="ImTranslator Feedback">Feedback</a> : <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=GD9D8CPW8HFA2" target="_blank" class="SL_options" title="Make a small contribution">Donate</a></td><td class="SL_td" width="15%" align="right"><span id="SL_Balloon_Close" class="SL_options" title="Close">Close</span></td></tr></table></div></div></div></body>

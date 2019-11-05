@@ -1,0 +1,4 @@
+name,login,password,address,phone number
+asdgag;yava;ghsfhdf;sfhsghsfg;dfghh
+Pasha;Pashtet;12345;yugu;mvfu
+Pashtet;Pasha11;123456;erjer;erhterh
